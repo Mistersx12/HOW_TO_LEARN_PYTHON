@@ -1,2 +1,2 @@
-  #MyApp
-  This is my app
+**PYTHON TOGETHER**
+*clever with python*
